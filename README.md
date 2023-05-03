@@ -1,6 +1,6 @@
 # 노션신잡 Article
 [노션신잡 소개 및 안내사항]  
-카카오 오픈채팅 : https://open.kakao.com/o/gFbcBkjc
+카카오 오픈채팅 : https://open.kakao.com/o/gFbcBkjc  
 노션의 신기하고 잡다한 기능 마스터 노션페이지 : https://www.notion.so/shinysunmin/6e9b50bb1707427b9b5343c3fc832fd5
 
 ## 노션 오피셜

@@ -32,3 +32,14 @@
 
 ## ？ 기타
 - [노션에 로그인이 안되는 경우](https://haebom.notion.site/Notion-6abcbfb8cc76490db652be18289936ab)
+
+
+## 도움주신 분
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->

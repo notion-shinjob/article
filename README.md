@@ -14,7 +14,8 @@
 - [노션 트위터(한국)](https://twitter.com/NotionKR)
 - [노션 유튜브](https://www.youtube.com/c/Notion)
 - [노션 페이스북(한국)](https://www.facebook.com/groups/420667475061909/)
-- [노션 텔레그램(한국)](https://www.notion.so/Notion-Korea-Community-61220f5077824ae681644cdd012006e9#:~:text=%EB%85%B8%EC%85%98%20%ED%85%94%EB%A0%88%EA%B7%B8%EB%9E%A8-,%EC%B0%B8%EC%97%AC%ED%95%98%EA%B8%B0,-%EB%85%B8%EC%85%98%20%EB%84%A4%EC%9D%B4%EB%B2%84%20%EA%B0%80%EC%9E%85%ED%95%98%EA%B8%B0)
+- [노션 한국 커뮤니티](https://www.notion.so/Notion-Korea-Community-61220f5077824ae681644cdd012006e9)
+- [노션 텔레그램(한국)](https://t.me/+WcucP_sBtRE4NWRl)
 - [노션 네이버](https://cafe.naver.com/notionkr)
 - [노션 디스코드(한국)](https://discord.gg/fNq9fXF95F)
 
